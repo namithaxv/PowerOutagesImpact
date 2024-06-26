@@ -1,6 +1,7 @@
 # Power Outages: An Investigative Analysis
 
 ### by Jet Yue and Namitha Vishnupad
+#### Website Link: https://jetyue04.github.io/Power_Outages_Impact/
 
 # Introduction
 
